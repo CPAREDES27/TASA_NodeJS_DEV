@@ -52,7 +52,8 @@ var allowlist = [
     'https://tasadev.launchpad.cfapps.us10.hana.ondemand.com',
     'https://workspaces-ws-ndjqc-app1.us10.applicationstudio.cloud.sap',
     'https://workspaces-ws-ndjqc-app3.us10.applicationstudio.cloud.sap',
-    'https://workspaces-ws-cd8st-app1.us10.applicationstudio.cloud.sap'
+    'https://workspaces-ws-cd8st-app1.us10.applicationstudio.cloud.sap',
+    'https://workspaces-ws-ndjqc-app2.us10.applicationstudio.cloud.sap'
 ];
 var corsOptionsDelegate = function (req, callback) {
   var corsOptions;
